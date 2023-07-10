@@ -1,0 +1,4 @@
+[[redirects]]
+form = "/*"
+to = "/lobby.html"
+status = 200
